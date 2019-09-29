@@ -26,7 +26,7 @@ public class LoginServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		response.getWriter().print("hello maven");
-		System.out.println("fsd发短信合的撒发的萨芬sagdsad");
+		System.out.println("fsd发短信合的撒发发道森股份迪桑的萨芬sagdsad");
 	}
 
 	/**
